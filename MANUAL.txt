@@ -1,0 +1,3 @@
+This is a user manual for this entire trial project.
+Use it to understand the project working more clearly.
+Thank you for reading.
